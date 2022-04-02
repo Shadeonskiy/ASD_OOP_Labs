@@ -1,0 +1,14 @@
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\bin\Debug\netcoreapp3.1\LabWork_№1_01.02.exe
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\bin\Debug\netcoreapp3.1\LabWork_№1_01.02.deps.json
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\bin\Debug\netcoreapp3.1\LabWork_№1_01.02.runtimeconfig.json
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\bin\Debug\netcoreapp3.1\LabWork_№1_01.02.runtimeconfig.dev.json
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\bin\Debug\netcoreapp3.1\LabWork_№1_01.02.dll
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\bin\Debug\netcoreapp3.1\LabWork_№1_01.02.pdb
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\obj\Debug\netcoreapp3.1\LabWork_№1_01.02.csproj.AssemblyReference.cache
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\obj\Debug\netcoreapp3.1\LabWork_№1_01.02.GeneratedMSBuildEditorConfig.editorconfig
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\obj\Debug\netcoreapp3.1\LabWork_№1_01.02.AssemblyInfoInputs.cache
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\obj\Debug\netcoreapp3.1\LabWork_№1_01.02.AssemblyInfo.cs
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\obj\Debug\netcoreapp3.1\LabWork_№1_01.02.csproj.CoreCompileInputs.cache
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\obj\Debug\netcoreapp3.1\LabWork_№1_01.02.dll
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\obj\Debug\netcoreapp3.1\LabWork_№1_01.02.pdb
+F:\КНУ\СД\LabWork_№1_01.02\LabWork_№1_01.02\obj\Debug\netcoreapp3.1\LabWork_№1_01.02.genruntimeconfig.cache
