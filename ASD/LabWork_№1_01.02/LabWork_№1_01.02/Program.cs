@@ -51,7 +51,7 @@ namespace LabWork__1_01._02
         {
             int index = 0;
             bool IsSort = true;
-            while(index != Array.Length && IsSort)
+            while(index != Array.Length - 1 && IsSort)
             {
                 if (Array[index] > Array[index + 1])
                 {
@@ -173,7 +173,7 @@ namespace LabWork__1_01._02
             {
                 Console.WriteLine("Елемент не знайдено.");
             }
-            Console.WriteLine($"Час роботи алгоритму = {DateTime.Now - StartTime}");
+            Console.WriteLine($"Час роботи алгоритму = {(DateTime.Now - StartTime).TotalSeconds} cекунд");
         }
         static void LinearSearch(LinkedList head)
         {
@@ -218,7 +218,7 @@ namespace LabWork__1_01._02
             {
                 Console.WriteLine("Елемент не знайдено.");
             }
-            Console.WriteLine($"Час роботи алгоритму = {DateTime.Now - StartTime}");
+            Console.WriteLine($"Час роботи алгоритму = {(DateTime.Now - StartTime).TotalSeconds} cекунд");
         }
         static void BarrierSearch(int [] nArray, int ArrayLength)
         {
@@ -259,7 +259,7 @@ namespace LabWork__1_01._02
             {
                 Console.WriteLine("Елемент знайдено, його порядковий номер: " + (index + 1) + ".");
             }
-            Console.WriteLine($"Час роботи алгоритму = {DateTime.Now - StartTime}");
+            Console.WriteLine($"Час роботи алгоритму = {(DateTime.Now - StartTime).TotalSeconds} cекунд");
             Array.Resize(ref nArray, ArrayLength);
         }
         static void BarrierSearch(LinkedList head)
@@ -308,7 +308,7 @@ namespace LabWork__1_01._02
             {
                 Console.WriteLine("Елемент знайдено, його порядковий номер: " + (index + 1) + ".");
             }
-            Console.WriteLine($"Час роботи алгоритму = {DateTime.Now - StartTime}");
+            Console.WriteLine($"Час роботи алгоритму = {(DateTime.Now - StartTime).TotalSeconds} cекунд");
             while (head.Next.Next != null)
             {
                 head = head.Next;
@@ -371,7 +371,7 @@ namespace LabWork__1_01._02
             {
                 Console.WriteLine("Елемент не знайдено.");
             }
-            Console.WriteLine($"Час роботи алгоритму = {DateTime.Now - StartTime}");
+            Console.WriteLine($"Час роботи алгоритму = {(DateTime.Now - StartTime).TotalSeconds} cекунд");
         }
         static void BinarySearch(LinkedList head, bool isGoldenRation)
         {
@@ -432,7 +432,7 @@ namespace LabWork__1_01._02
             {
                 Console.WriteLine("Елемент не знайдено.");
             }
-            Console.WriteLine($"Час роботи алгоритму = {DateTime.Now - StartTime}");
+            Console.WriteLine($"Час роботи алгоритму = {(DateTime.Now - StartTime).TotalSeconds} cекунд");
         }
         static void Separator()//метод виведення на екран лiнiї розмежовувача
         {
