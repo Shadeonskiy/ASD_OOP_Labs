@@ -1,0 +1,15 @@
+F:\КНУ\АСД\ДЗ\Stack\task3\bin\Debug\net6.0\task3.exe
+F:\КНУ\АСД\ДЗ\Stack\task3\bin\Debug\net6.0\task3.deps.json
+F:\КНУ\АСД\ДЗ\Stack\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+F:\КНУ\АСД\ДЗ\Stack\task3\bin\Debug\net6.0\task3.dll
+F:\КНУ\АСД\ДЗ\Stack\task3\bin\Debug\net6.0\task3.pdb
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\task3.dll
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\refint\task3.dll
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\task3.pdb
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+F:\КНУ\АСД\ДЗ\Stack\task3\obj\Debug\net6.0\ref\task3.dll

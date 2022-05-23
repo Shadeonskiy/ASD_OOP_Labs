@@ -351,6 +351,7 @@ namespace LabWork__1_01._02
             int Left = 0, Right = Array.Length - 1;
             int Middle = 0;
             DateTime StartTime = DateTime.Now;
+
             while (Left < Right)
             {
                 Middle = (int)((Left + lambda*Right) / (1+lambda));

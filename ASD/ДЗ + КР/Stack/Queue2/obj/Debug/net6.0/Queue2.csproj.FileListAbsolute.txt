@@ -1,0 +1,15 @@
+F:\КНУ\АСД\ДЗ\Stack\Queue2\bin\Debug\net6.0\Queue2.exe
+F:\КНУ\АСД\ДЗ\Stack\Queue2\bin\Debug\net6.0\Queue2.deps.json
+F:\КНУ\АСД\ДЗ\Stack\Queue2\bin\Debug\net6.0\Queue2.runtimeconfig.json
+F:\КНУ\АСД\ДЗ\Stack\Queue2\bin\Debug\net6.0\Queue2.dll
+F:\КНУ\АСД\ДЗ\Stack\Queue2\bin\Debug\net6.0\Queue2.pdb
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\Queue2.csproj.AssemblyReference.cache
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\Queue2.GeneratedMSBuildEditorConfig.editorconfig
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\Queue2.AssemblyInfoInputs.cache
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\Queue2.AssemblyInfo.cs
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\Queue2.csproj.CoreCompileInputs.cache
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\Queue2.dll
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\refint\Queue2.dll
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\Queue2.pdb
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\Queue2.genruntimeconfig.cache
+F:\КНУ\АСД\ДЗ\Stack\Queue2\obj\Debug\net6.0\ref\Queue2.dll

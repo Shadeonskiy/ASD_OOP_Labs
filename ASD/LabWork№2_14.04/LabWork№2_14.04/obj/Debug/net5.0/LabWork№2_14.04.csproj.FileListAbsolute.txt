@@ -1,0 +1,16 @@
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\bin\Debug\net5.0\LabWork№2_14.04.exe
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\bin\Debug\net5.0\LabWork№2_14.04.deps.json
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\bin\Debug\net5.0\LabWork№2_14.04.runtimeconfig.json
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\bin\Debug\net5.0\LabWork№2_14.04.runtimeconfig.dev.json
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\bin\Debug\net5.0\LabWork№2_14.04.dll
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\bin\Debug\net5.0\LabWork№2_14.04.pdb
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\LabWork№2_14.04.csproj.AssemblyReference.cache
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\LabWork№2_14.04.GeneratedMSBuildEditorConfig.editorconfig
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\LabWork№2_14.04.AssemblyInfoInputs.cache
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\LabWork№2_14.04.AssemblyInfo.cs
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\LabWork№2_14.04.csproj.CoreCompileInputs.cache
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\LabWork№2_14.04.dll
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\refint\LabWork№2_14.04.dll
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\LabWork№2_14.04.pdb
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\LabWork№2_14.04.genruntimeconfig.cache
+F:\КНУ\АСД\LabWork№2_14.04\LabWork№2_14.04\obj\Debug\net5.0\ref\LabWork№2_14.04.dll
